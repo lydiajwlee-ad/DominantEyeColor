@@ -1,5 +1,7 @@
 # Optimizing Asymmetric Binocular Rendering in VR Based on Color Sensitivity in Dominant and Non-Dominant Eyes Unity Package
 
+*By Jeongwon(Lydia) Lee*
+
 ## Note
 
 Virtual Reality (VR) and Augmented Reality (AR) are rapidly evolving technologies, capturing significant attention across various industries such as entertainment, scientific research, medicine, education, and more. The value of these technologies lies in their potential seamless immersion into daily life, allowing for unrestricted mobility and enhancing quality of life through portable devices. COVID-19 pandemic has been the acceleration point of the development of VR and AR industry, catalyzing the usage of VR collaboration platforms during lockdowns. This trend has expedited technology companies to intensify their commitment to developing VR and AR devices that are not only immersive but also suitable for everyday commercial use. 
